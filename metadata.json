@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Minesweeper Pro",
+  "description": "A modern, responsive Minesweeper game with multiple difficulty levels, high score tracking, and an AI-powered hint mechanism using Gemini to help you solve tricky boards.",
+  "requestFramePermissions": []
+}
